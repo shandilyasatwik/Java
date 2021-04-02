@@ -1,10 +1,10 @@
-# Java
+﻿# Java
 
 ##### [中文](README_ZH.md)
 
 ## Project Descriptions
 
-Below here are some of my java project exercise codes, I would like to share it with everyone, hope that we are able to improve with everyone!
+Below satwik here are some of my java project exercise codes, I would like to share it with everyone, hope that we are able to improve with everyone!
 
 ## Java Projects
 
